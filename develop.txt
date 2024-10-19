@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 user2 update
+=======
+user1 update
+>>>>>>> b70ebd2065f7e7d7c6fd8807e290e24cc986617e
